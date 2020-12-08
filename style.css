@@ -1,0 +1,21 @@
+@charset "utf-8";
+/*
+	The Great Race Project
+	ITC-370
+	Author: Christopher Jones
+	Date: 11/28/2020
+	
+	Filename: styleEF.css
+*/
+
+html {
+	height: 100%	
+}
+	
+body {
+	background-image: url("./wallpaper-5.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow:auto;
+}
